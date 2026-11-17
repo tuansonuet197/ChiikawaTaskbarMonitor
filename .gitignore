@@ -1,0 +1,8 @@
+App/
+bin/
+obj/
+ReleasePkg/
+*.zip
+*.mp4
+*.user
+.vs/
